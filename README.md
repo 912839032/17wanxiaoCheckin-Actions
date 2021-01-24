@@ -47,7 +47,7 @@
 1. 请先确保在**完美校园 APP**中进入健康打卡界面，信息能够正确的自动填写，并手动打一次卡（只能是 app，小程序不行！）（没有自动填写的项，可以自行修改代码）
 
 2. 点击右上角的 `fork`，`fork` 本项目到自己仓库中
-
+               
    
 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/click_fork.png)
